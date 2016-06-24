@@ -1,3 +1,5 @@
+サブモジュールのテストを行う
+
 submodule-test
 submodule-test-a
 submodule-test-b
