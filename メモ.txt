@@ -1,0 +1,8 @@
+submodule-test
+submodule-test-a
+submodule-test-b
+
+https://github.com/whitedog519/submodule-test.git
+https://github.com/whitedog519/submodule-test-a.git
+https://github.com/whitedog519/submodule-test-b.git
+
