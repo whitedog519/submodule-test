@@ -1,3 +1,6 @@
 [submodule "submodule-test-a"]
 	path = submodule-test-a
 	url = https://github.com/whitedog519/submodule-test-a.git
+[submodule "submodule-test-b"]
+	path = submodule-test-b
+	url = https://github.com/whitedog519/submodule-test-b.git
